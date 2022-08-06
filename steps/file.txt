@@ -1,0 +1,6 @@
+[===========>> STEPS <<===========]
+1 : import Pythom Modules --> [ libraries ]
+2 : Create Different Function --> [ Def ]
+3 : Create logo --> [ Banner ]
+4 : Create main menu --> [ Function ]
+5 : Run Programme In Terminal --> [ Termux ]
